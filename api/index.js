@@ -37,4 +37,4 @@ app.post("/registere", async (req, res) => {
 
 app.listen(4000);
 
-// passpord for mongodb Qrci0gNSuUgdwLFy
+// passpord for mongoodb Qrci0gNSuUgdwLFy
